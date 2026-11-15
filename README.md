@@ -1,5 +1,4 @@
-# Guía de Pistolas (proyecto académico)
-
+# Guía de Pistolas 
 Sitio web sencillo e informativo sobre pistolas: catálogo, historia y normas de seguridad.
 
 ## Tecnologías
