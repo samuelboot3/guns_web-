@@ -20,7 +20,6 @@ assets/          CSS y JavaScript
 ## Cómo ejecutarlo
 
 1. en primer lugar ejecuta xampp o laragon para permitir la ejecucion de apache.
-2. luego ejecuta el link para abrir la pagina en el navegador
-3. abre la terminal en vs y pon este  link:  C:\xampp\php\php.exe -S localhost:8000
+2. abre la terminal en vs y pon este  link:  C:\xampp\php\php.exe -S localhost:8000
 4. por ultimo abre la pagina web con este link: http://localhost:8000
 > Contenido con fines educativos e informativos.
